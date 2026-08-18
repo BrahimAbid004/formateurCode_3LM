@@ -1,0 +1,14 @@
+# Environnements virtuels
+venv/
+env/
+
+# Variables d'environnement (Sécurité !)
+.env
+
+# Fichiers temporaires Python
+__pycache__/
+*.pyc
+
+# Fichiers de MacOS ou Windows (optionnel mais recommandé)
+.DS_Store
+Thumbs.db
